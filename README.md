@@ -1,7 +1,7 @@
-##Kadom — Plateforme de gestion de cartes cadeaux
+## Kadom — Plateforme de gestion de cartes cadeaux
 Kadom est une application composée de trois parties :
 
-1. kadom-api
+## 1. kadom-api
 Backend en Node.js  + Express + Prisma + PostgreSQL.
 Fonctionnalités :
 
@@ -13,7 +13,7 @@ Gestion du solde
 
 Connexion à une base PostgreSQL locale
 
-2. kadom-dashboard
+## 2. kadom-dashboard
 Dashboard React pour les partenaires.
 Fonctionnalités :
 
@@ -25,5 +25,5 @@ Vérifier un code
 
 Utiliser une carte
 
-3. kadom (Next.js)
+## 3. kadom (Next.js)
 Interface publique / vitrine (en développement).
